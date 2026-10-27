@@ -17,9 +17,9 @@ print(result)
 #------------------------------------------------------------------------------------
 # Question 2: Comparison and Logical Operators
 
-a = 32
-b = 33
-c = 32
+a = int(input("Enter a value for a: "))
+b = int(input("Enter a value for b: "))
+c = int(input("Enter a value for c: "))
 # TODO: Create a condition that checks if a is greater than b
 condition1 = a > b
 
